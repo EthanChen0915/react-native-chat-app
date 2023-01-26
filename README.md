@@ -1,11 +1,6 @@
 # Chat App using React Native Expo and Firebase
 
 
-Clone the repo
-```
-git clone https://github.com/betomoedano/ChatApp.git
-```
-
 cd into the just created project and install dependencies with yarn
 ```
 cd ChatApp && yarn
@@ -29,6 +24,3 @@ Run the project
 expo start
 ```
 
-Congratulations 🎉 Now you have a functional Chat App working locally
-
-(https://user-images.githubusercontent.com/43630417/167732465-f02c0dea-48db-4e23-ab26-90ca69115251.png)
